@@ -1,0 +1,15 @@
+﻿INSERT INTO `student` VALUES (101, '胡远江', '男', '1501', 18392595834);
+INSERT INTO `student` VALUES (102, '赵江', '男', '1502', 15285583805);
+INSERT INTO `student` VALUES (103, '韦钧耀', '男', '1503', 18392389247);
+INSERT INTO `student` VALUES (104, '郝宇飞', '女', '1601', 18395786789);
+INSERT INTO `student` VALUES (105, '肖毅', '男', '1501', 18275345873);
+INSERT INTO `student` VALUES (106, '16', '男', '16516', 644);
+INSERT INTO `student` VALUES (107, 'ss', '男', '156', 1566);
+INSERT INTO `student` VALUES (108, 'ss', '男', '156', 1566);
+INSERT INTO `student` VALUES (109, 'ss', '男', '156', 1566);
+INSERT INTO `student` VALUES (110, 'ss', '男', '156', 1566);
+INSERT INTO `student` VALUES (111, '赵江', '女', '1501', 1654849);
+INSERT INTO `student` VALUES (112, 'ss', '男', '156', 1566);
+INSERT INTO `student` VALUES (113, 'ss', '男', '156', 1566);
+INSERT INTO `student` VALUES (114, '胡远江', '男', '1501', 1654849);
+INSERT INTO `student` VALUES (115, '胡远江', '男', '计科1501', 18392595834);
