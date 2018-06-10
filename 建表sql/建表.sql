@@ -4,9 +4,9 @@ use manager;
 
 create table student
 (
-	Sno BIGINT NOT NULL PRIMARY KEY COMMENT '学号',
-	Sname CHAR(20) NOT NULL COMMENT '姓名',
-	Ssex CHAR(1) COMMENT '性别',
-	Sclass BIGINT NOT NULL COMMENT '班级',
-	Sphone BIGINT COMMENT '号码'
+	Sno BIGINT NOT NULL PRIMARY KEY COMMENT '瀛﹀彿',
+	Sname CHAR(20) NOT NULL COMMENT '濮撳悕',
+	Ssex CHAR(1) COMMENT '鎬у埆',
+	Sclass BIGINT NOT NULL COMMENT '鐝骇',
+	Sphone BIGINT COMMENT '鐢佃瘽'
 )ENGINE=InnoDB DEFAULT CHARSET=utf8;
